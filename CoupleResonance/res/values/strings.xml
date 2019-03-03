@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Couple Resonance</string>
+    <string name="action_settings">Settings</string>
+
+    <color name="white">#ffffffff</color>
+    <color name="green">#ff00ff00</color>
+
+    <string name="title_activity_splash">Couple Resonance</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="app_id">538805346155219</string>
+</resources>
