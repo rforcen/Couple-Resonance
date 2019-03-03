@@ -57,14 +57,14 @@ import com.facebook.model.*;
 
 public class MainActivity extends Activity {
 
-	static final String HashFB="$1$7ag6i7.N$HUfg0DgbvNmuJepfWq3YZ."; 						// FB integration constants md5pass
-	static final String FB_App_ID="538805346155219";
-	static final String FB_App_Secret="fec7e3b41deb3bfa64e85a7663bcaa78";
+	static final String HashFB="your fb hash"; 						// FB integration constants md5pass
+	static final String FB_App_ID="fb app id";
+	static final String FB_App_Secret="app secret";
 	private static final List<String> PERMISSIONS = Arrays.asList("publish_actions");
 //			Arrays.asList("publish_actions, user_photos, publish_checkins, publish_stream");
 //	 Arrays.asList("photo_upload, publish_stream, video_upload, share_item, installed, user_photos, status_update, create_note, publish_actions");
-	static final String TW_consumerkey= "N4ksyGSuRw1UpodmMRVrTg";	// "21294529-sKMri6KPpsifzMvTYuNqJatspjdpFI6YSc0UbrQ"; //						// Twitter integration
-	static final String TW_consumerSecret="ua8kdBXlIKA3pG8GSpT8Q3iI9qPcuKYgnuWU7Vvk"; // "M1uegiGddYSqQAI3hHdbJPqjUWklgUHaRZulX4PYM"; //
+	static final String TW_consumerkey= "twitter key";	 //						// Twitter integration
+	static final String TW_consumerSecret="twitter cons. secret"; // 
 	static final String TW_Request_token_URL="https://api.twitter.com/oauth/request_token";
 	static final String TW_Authorize_URL="https://api.twitter.com/oauth/authorize";
 	static final String TW_Access_token_URL="https://api.twitter.com/oauth/access_token";
